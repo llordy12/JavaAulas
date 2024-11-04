@@ -12,7 +12,7 @@ public class For {
     	System.out.println("Digite o numero desejado");
     	numero = scanner.nextInt();
     	
-    	for(i = 1;i <=20; i++) {
+    	for(i = 1;i <=10; i++) {
     		
     		System.out.println(numero + " x " + i + " = " + numero * i);
     	}
